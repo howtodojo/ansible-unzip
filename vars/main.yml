@@ -1,0 +1,3 @@
+---
+# vars file for ansible-unzip
+unzip_packages: unzip
